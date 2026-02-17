@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # add some comments
 =======
+=======
+# add some comments 
+>>>>>>> 9842900e52f588cfdfe5477b15b85a4ca2e54c3f
 # add come comments 2
 >>>>>>> e3447c0a6ef57f228d8ceb096802c1bdd2747506
 
