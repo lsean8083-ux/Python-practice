@@ -1,8 +1,8 @@
 # add some comments 
+# add come comments 2
 
 a = ['4','b','7','8','s']
 b = ['4','7','3','#']
-
 
 def cha_ji (a,b):
     c=[]
