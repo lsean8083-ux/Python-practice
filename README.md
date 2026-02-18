@@ -3,3 +3,5 @@ this project focus one IB computer science HL course python code practice. inclu
 1. sort
 2. encode and decode
 3. class concept
+
+hello sean, I am try to talk to you by this readme file.
