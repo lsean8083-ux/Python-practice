@@ -1,3 +1,5 @@
+# use buble sort algorithm to sort a list
+
 a = [1,4,5,64,3,3, -3,2343,22,89,34,122234334,22]
 
 def pai_xu(number_set):
